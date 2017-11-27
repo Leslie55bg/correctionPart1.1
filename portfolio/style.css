@@ -1,0 +1,40 @@
+h1 {
+  color: red;
+  text-transform: uppercase;
+}
+h4 {
+  color:blue;
+}
+body{
+  background: linear-gradient(white, grey);
+}
+li{
+  list-style-type: square;
+}
+.exercice3 {
+  height:400px;
+  width:600px;
+  background: radial-gradient(lightblue, darkblue);
+  box-shadow: 5px 5px 5px black;
+}
+.div1 {
+  height: 200px;
+  width:200px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 50px;
+}
+.div2 {
+  height: 200px;
+  width:200px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+.div3 {
+  height: 200px;
+  width:200px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 15px 6% 50px 50px;
+}
